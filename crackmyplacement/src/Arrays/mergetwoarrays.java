@@ -1,6 +1,10 @@
 package Arrays;
 
 public class mergetwoarrays {
+
+    /**
+     *  Problem link:-   https://leetcode.com/problems/merge-sorted-array/
+     */
     public static void main(String[] args) {
         int[] nums1 = {};
         int[] nums2 = {};

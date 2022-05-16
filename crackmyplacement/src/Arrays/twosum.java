@@ -1,6 +1,11 @@
 package Arrays;
 import java.util.*;
 public class twosum {
+    /**
+     * 
+     *  
+     * Problem link :- https://leetcode.com/problems/two-sum/
+     */
 	
 
 	public static void main(String[] args) {
